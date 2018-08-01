@@ -1,0 +1,60 @@
+[
+  {
+    "id": 0,
+    "name": "西川遥輝",
+    "picture": "images/nisikawa.jpeg",
+    "age": 26,
+    "location": "和歌山"
+  },
+  {
+    "id": 1,
+    "name": "大田泰示",
+    "picture": "images/oota.jpeg",
+    "age": 28,
+    "location": "広島"
+  },
+  {
+    "id": 2,
+    "name": "近藤健介",
+    "picture": "images/konndou.jpeg",
+    "age": 24,
+    "location": "千葉"
+  },
+  {
+    "id": 3,
+    "name": "中田翔",
+    "picture": "images/nakata.jpeg",
+    "age": 29,
+    "location": "広島"
+  },
+  {
+    "id": 4,
+    "name": "レアード",
+    "picture": "images/rea-do.jpeg",
+    "age": 30,
+    "location": "アメリカ合衆国"
+  },
+  {
+    "id": 5,
+    "name": "アルシア",
+    "picture": "images/arusia.jpeg",
+    "age": 27,
+    "location": "ベネズエラボリバル共和國"
+  },
+  {
+    "id": 6,
+    "name": "石井一成",
+    "picture": "images/isii.jpeg",
+    "age": 24,
+    "location": "栃木"
+  },
+  {
+    "id": 7,
+    "name": "清水優心",
+    "picture": "images/simizu.jpeg",
+    "age": 22,
+    "location": "山口"
+  }
+  
+    
+]
